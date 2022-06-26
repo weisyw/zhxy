@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
 public class MpConfig {
 
     /**
-     * 分页插件
+     * 分页
      */
     @Bean
     public PaginationInterceptor paginationInterceptor() {
